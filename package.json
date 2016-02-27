@@ -1,0 +1,36 @@
+{
+  "name": "currency-code-map",
+  "version": "1.0.0",
+  "description": "a mapping of all the ISO 3166-1 alpha-2 country codes to their respective ISO 4217 currency codes",
+  "main": "index.js",
+  "dependencies": {
+    "currency-codes": "~1.1.2",
+    "country-list": "~0.0.3"
+  },
+  "devDependencies": {
+    "size-table": "~0.2.0"
+  },
+  "scripts": {
+    "size": "cat index.js | size-table",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/currency-code-map"
+  },
+  "keywords": [
+    "currency",
+    "country",
+    "code",
+    "iso",
+    "3166-1",
+    "alpha-2",
+    "4217"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/currency-code-map/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/currency-code-map"
+}
