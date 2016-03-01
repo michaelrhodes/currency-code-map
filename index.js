@@ -214,7 +214,7 @@ module.exports = {
   SJ: 'NOK',
   SZ: 'SZL',
   SE: 'SEK',
-  CH: 'CHE',
+  CH: 'CHF',
   SY: 'SYP',
   TW: 'TWD',
   TJ: 'TJS',
